@@ -8,3 +8,7 @@ def main():
         "second_col":[100,20,30,40]
         
     })
+    st.write(df)
+
+if __name__=="__main__":
+    main()    
